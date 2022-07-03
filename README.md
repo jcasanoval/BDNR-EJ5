@@ -1,6 +1,8 @@
 Primero que nada correr `go mod tidy`.
 Esto va a traer todas las dependencias necesarias, similar a npm install.
 
+Luego actualizar el archivo .env incluido.
+
 Para correr tenemos dos opciones:
 
 - Correr: `go run main.go`
